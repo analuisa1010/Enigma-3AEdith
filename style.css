@@ -22,8 +22,8 @@ header {
 .navbar {
     display: flex;
     justify-content: space-between;header {
-        background-color: #333;
-        color: #fff;
+        background-color: #39f9d9;
+        color: #24b1ca;
         padding: 20px 0;
     }
     
