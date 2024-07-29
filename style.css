@@ -34,7 +34,7 @@ header {
     }
     
     .logo {
-        color: #535340;
+        color: #dfdf3e;
         text-decoration: none;
         font-size: 24px;
     }
@@ -51,7 +51,7 @@ header {
     }
     
     .nav-menu li a {
-        color: #2d2828;
+        color: #eae029;
         text-decoration: none;
     }
     
@@ -59,7 +59,7 @@ header {
 }
 
 .logo {
-    color: #1150ce;
+    color: #d4ed19;
     text-decoration: none;
     font-size: 24px;
 }
